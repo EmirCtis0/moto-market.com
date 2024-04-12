@@ -12,7 +12,7 @@ Welcome to moto-market.com! This web application is your go-to destination for b
 - **Admin Functionality:** Admins can update the status of motorbikes, marking them as sold.
 
 **Installation:**
-1. Clone the repository: `git clone https://github.com/yourusername/moto-market.git`
+1. Clone the repository: `git clone https://github.com/yourusername/moto-market.com.git`
 2. Import the provided database schema `bike.sql` into your MySQL database.
 3. Configure your web server (e.g., Apache) to serve PHP files.
 4. Update the database connection details in `db.php`, if needed.
