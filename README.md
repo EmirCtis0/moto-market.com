@@ -17,6 +17,14 @@ Welcome to moto-market.com! This web application is your go-to destination for b
 3. Configure your web server (e.g., Apache) to serve PHP files.
 4. Update the database connection details in `db.php`, if needed.
 
+**Images:**
+
+
+
+![Screenshot 2024-04-12 140853](https://github.com/EmirCtis0/moto-market.com/assets/145711137/2bd6a96b-e318-40e1-a830-922fbe772e5d)
+
+![Screenshot 2024-04-12 140904](https://github.com/EmirCtis0/moto-market.com/assets/145711137/fcc250f6-f3a0-450d-8853-e43df32ff736)
+
 **Usage:**
 1. Access the application via its URL in your web browser.
 2. Browse through the list of available motorbikes on the main page.
